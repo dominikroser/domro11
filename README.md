@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning commercial application of machine learning in Azure and AWS
 - 👯 For the future I want to master NLP and deep learning
 
+## Looking for new resources to master data science on Kaggle, Datacamp and Youtube. 
+
